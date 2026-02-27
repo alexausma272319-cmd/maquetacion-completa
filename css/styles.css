@@ -8,7 +8,7 @@
 /* PAGINA 1 */
 /* ------------*/
 body {
-    background-color: #2f2f2f;
+    background-color: hwb(239 6% 0%);
 }
 
 /* 🔥 FORZAR QUE NO SE ROMPA */
@@ -19,13 +19,13 @@ body {
 
 /* IZQUIERDA */
 .bloquePrincipal1 {
-    background-color: orange;
+    background-color: oklch(56.831% 0.18845 267.304 / 0.719);
     height: 180px;
     border-radius: 10px;
 }
 
 .cuadroPequeno1 {
-    background-color: orange;
+    background-color: rgb(231, 212, 106);
     width: 150px;
     height: 80px;
     border-radius: 10px;
@@ -33,14 +33,14 @@ body {
 
 /* TEXTOS */
 .linea1 {
-    background-color: #7c7c7c;
+    background-color: #000000;
     height: 10px;
     width: 100%;
     border-radius: 5px;
 }
 
 .lineaCorta1 {
-    background-color: #bfbfbf;
+    background-color: #7d8181;
     height: 25px;
     width: 60%;
     border-radius: 5px;
@@ -48,7 +48,7 @@ body {
 
 /* DERECHA */
 .sidebar1 {
-    background-color: #444444;
+    background-color: #fdab40;
     border-radius: 10px;
 }
 
